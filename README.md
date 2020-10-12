@@ -2,6 +2,18 @@
 ## 作品:
 選擇權訂價模型計算器
 ## 功能:
+### 提供三種選擇權評價模型計算器:
+* Black Scholes Model
+* Black Scholes Merton Model
+* Black Model
+### 價格計算:
+* Model Closed-Form Solution 
+* Binomial Tree Model (European) Solution 
+* Binomial Tree Model (American) Solution 
+* Monte Carlo Simulation Solution 
+### 收斂圖:
+* European Option : Model Closed-Form Solution vs Binomial Tree Model Solution 
+* European Option : Model Closed-Form Solution vs Monte Carlo Simulation Solution 
 ## 示意圖:
 ### 價格計算:
 ![picture1](https://github.com/yyy855029/option_pricing_calculator/blob/main/Img/%E7%A4%BA%E6%84%8F%E5%9C%961.jpg)
