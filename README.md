@@ -3,7 +3,7 @@
 選擇權訂價模型計算器
 ## 功能:
 ## 示意圖:
-![picture1] (https://github.com/yyy855029/option_pricing_calculator/blob/main/Img/%E7%A4%BA%E6%84%8F%E5%9C%961.jpg)
+![picture1](https://github.com/yyy855029/option_pricing_calculator/blob/main/Img/%E7%A4%BA%E6%84%8F%E5%9C%961.jpg)
 ## 使用程式:
 R
 ## Shiny App:
