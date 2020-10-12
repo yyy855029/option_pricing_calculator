@@ -1,6 +1,6 @@
 # option_pricing_calculator
 ## 作品:
-選擇權訂價模型計算器
+### 選擇權訂價模型計算器
 ## 功能:
 ### 提供三種選擇權評價模型計算器:
 * Black Scholes Model
