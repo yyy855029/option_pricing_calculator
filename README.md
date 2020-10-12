@@ -1,4 +1,4 @@
-# option_pricing_calculator
+# Option Pricing Calculator
 ## 作品:
 ### 選擇權訂價模型計算器
 ## 功能:
