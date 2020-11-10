@@ -20,7 +20,7 @@
 ### 收斂圖:
 ![picture2](https://github.com/yyy855029/option_pricing_calculator/blob/main/Img/%E7%A4%BA%E6%84%8F%E5%9C%962.jpg)
 ## 使用程式:
-### R
+R
 ## Shiny App:
 https://ziweihuang.shinyapps.io/option_pricing/
 ## 參考資料:
